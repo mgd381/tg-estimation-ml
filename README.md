@@ -149,6 +149,17 @@ The repository generates:
 
 ---
 
+## Trained Models
+
+The trained Random Forest model is generated automatically by
+`analysis/training_test_analysis.ipynb`.
+
+Because the serialized `.pkl` file exceeds GitHub's recommended upload size for
+regular repositories, it is not included in this repository. Running the notebook
+will reproduce the trained model and generate the corresponding `.pkl` file.
+
+---
+
 ## Requirements
 
 Main Python packages used in this project include:
