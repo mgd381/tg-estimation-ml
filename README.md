@@ -6,9 +6,7 @@ This repository contains the data, analysis scripts, trained models, and results
 
 > ** NOMBREDELESTUDIOOOOOOOOOOOOOOOOOO**
 
-Black Globe Temperature (Tg) is one of the three variables required to calculate the **Wet Bulb Globe Temperature (WBGT)** index, the internationally accepted indicator for assessing occupational heat stress. Although air temperature, relative humidity, wind speed, and solar radiation are routinely measured by conventional weather stations, Tg measurements require a dedicated black globe thermometer, which is rarely available in operational meteorological networks.
-
-The objective of this study was to develop empirical models capable of estimating Tg from conventional meteorological observations, enabling WBGT estimation in locations where black globe measurements are unavailable.
+AGREGAR EL ABSTRACT ACTUALIZADO
 
 ---
 
