@@ -1,4 +1,4 @@
-# Estimation of Black Globe Temperature (Tg) Using Meteorological Variables and Machine Learning
+# Estimating black globe temperature from conventional meteorological variables for WBGT assessment in Lima, Peru.
 
 ## Overview
 
