@@ -4,9 +4,9 @@
 
 This repository contains the data, analysis scripts, trained models, and results associated with the study:
 
-> ** NOMBREDELESTUDIOOOOOOOOOOOOOOOOOO**
+> Estimating black globe temperature from conventional meteorological variables for WBGT assessment in Lima, Peru.
 
-AGREGAR EL ABSTRACT ACTUALIZADO
+Heat stress assessment using the Wet Bulb Globe Temperature (WBGT) index is limited at conventional meteorological stations that do not measure black globe temperature (Tg). This study developed Multiple Linear Regression (MLR) and Random Forest (RF) models to estimate Tg from air temperature, relative humidity, solar radiation, and wind speed recorded at the Alexander von Humboldt Meteorological Observatory, Universidad Nacional Agraria La Molina, Lima, Peru. Models were trained and evaluated using daytime observations (10:00–16:00 local time) from January–March 2025, with an independent evaluation during 20–26 January 2026 under elevated temperatures. Solar radiation was the main driver of Tg (R = 0.79), followed by air temperature (R = 0.64). RF outperformed MLR in the initial test, achieving an R² of 0.88 and a mean absolute error (MAE) of 0.82 °C, compared with 0.79 and 1.12 °C, respectively. This advantage persisted in the independent evaluation, where RF achieved an R² of 0.89 and an MAE of 0.91 °C, whereas MLR yielded 0.79 and 1.39 °C. Both models underestimated the highest Tg values. WBGT calculated using estimated Tg agreed closely with observations (R² > 0.94), with lower MAE for RF than MLR (0.155 °C versus 0.225 °C). These findings support RF as a promising approach for estimating Tg at stations lacking globe thermometers in Lima. However, because both datasets came from a single observatory and covered only daytime hours, transferability across sites, climates, and full diurnal cycles remains to be evaluated.
 
 ---
 
