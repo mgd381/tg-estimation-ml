@@ -1,6 +1,6 @@
 # Estimating black globe temperature from conventional meteorological variables for WBGT assessment in Lima, Peru.
 
-Research repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23308101.svg)](https://doi.org/10.5281/zenodo.23308101)
+Research repository DOI: 
 
 ## Overview
 
