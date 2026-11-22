@@ -35,4 +35,3 @@ The notebook includes:
 - A summary table of all models (`model_comparison_3vs4_variables.csv`).
 - Generation of the four trained models (`.pkl`: RF and MLR, with three and four variables) for later use.
 Outputs are saved in the `results/` folder.
- 
